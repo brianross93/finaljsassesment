@@ -1,0 +1,22 @@
+#left {
+    background-color: blue;
+    display: flex;
+    flex: 50%;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin: 1em;
+    padding: 1em;
+}
+
+#right {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    flex: 50%;
+    padding: 1em;
+}
+
+body {
+    display: flex;
+}
